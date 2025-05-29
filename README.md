@@ -27,7 +27,7 @@ Mobile-first thinking
 
 ### Weekly Tasks
 
-[] Set up GitHub profile and 1 repo per project
+[X] Set up GitHub profile and 1 repo per project
 
 [] Create wireframe for a personal site in Figma
 
@@ -37,9 +37,9 @@ Mobile-first thinking
 
 ### Project: “Personal Profile Card”
 
-[] Responsive card (name, image, bio)
+[X] Responsive card (name, image, bio)
 
-[] GitHub Pages live site
+[X] GitHub Pages live site
 
 [] Includes README, planning notes
 
