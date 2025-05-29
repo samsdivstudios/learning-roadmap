@@ -6,7 +6,7 @@ Duration: 6 Months
 Outcome: Portfolio-ready + freelance
 
 Focus: HTML, CSS, JS (with light frameworks), UX/UI, planning, version control, real projects
-
+---
 ## MONTH 1: Foundations & Workflow
 
 Overview:
@@ -19,7 +19,7 @@ Learn the building blocks of front-end: clean HTML structure, styled layouts wit
 
 [] CSS selectors, box model, layout (Flexbox intro)
 
-[] VS Code, Git + GitHub basics
+[x] VS Code, Git + GitHub basics
 
 [] Figma: basic wireframes/mockups
 
@@ -27,7 +27,7 @@ Learn the building blocks of front-end: clean HTML structure, styled layouts wit
 
 ### Weekly Tasks
 
-[] Set up GitHub profile and 1 repo per project
+[x] Set up GitHub profile and 1 repo per project
 
 [] Create wireframe for a personal site in Figma
 
@@ -42,7 +42,7 @@ Learn the building blocks of front-end: clean HTML structure, styled layouts wit
 [] GitHub Pages live site
 
 [] Includes README, planning notes
-
+---
 ## MONTH 2: Layout Mastery + Design Thinking
 
 Overview:
