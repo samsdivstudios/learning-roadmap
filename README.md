@@ -6,13 +6,13 @@ Duration: 6 Months
 Outcome: Portfolio-ready + freelance
 
 Focus: HTML, CSS, JS (with light frameworks), UX/UI, planning, version control, real projects
----
+
 ## MONTH 1: Foundations & Workflow
 
 Overview:
 
 Learn the building blocks of front-end: clean HTML structure, styled layouts with CSS, and proper version control. Start thinking like a developer — plan before you build.
-
+---
 ### Skills & Tools
 
 [] HTML5 semantic tags
@@ -48,7 +48,7 @@ Learn the building blocks of front-end: clean HTML structure, styled layouts wit
 Overview:
 
 Master layout systems and responsive design. Learn to think like a designer and user. Bring structure to your CSS and start journaling UX decisions.
-
+---
 ### Skills & Tools
 
 [] Flexbox (1D layout), CSS Grid (2D layout)
@@ -60,6 +60,7 @@ Master layout systems and responsive design. Learn to think like a designer and 
 [] Accessibility (basic a11y checks)
 
 ### Weekly Tasks
+
 [] Convert a static design to a 3-breakpoint responsive site
 
 [] Practice BEM naming and clean CSS organization
@@ -81,7 +82,7 @@ Master layout systems and responsive design. Learn to think like a designer and 
 Overview:
 
 Begin your JavaScript journey. Understand how to write basic logic, manipulate the DOM, and create interactive features users love.
-
+---
 ### Skills & Tools
 
 [] Variables, functions, loops, conditionals
@@ -115,7 +116,7 @@ Begin your JavaScript journey. Understand how to write basic logic, manipulate t
 Overview:
 
 Level up your visual skills and user empathy. Handle forms, improve polish, and create accessible experiences for all users.
-
+---
 ### Skills & Tools
 
 [] HTML forms: labels, input types, buttons
@@ -147,7 +148,7 @@ Level up your visual skills and user empathy. Handle forms, improve polish, and 
 Overview:
 
 Work smarter, not harder. Reuse code, build components, and get a taste of frameworks. Learn to fetch data and build more dynamic UI.
-
+---
 ### Skills & Tools
 
 [] JS modules, reusable components
@@ -179,6 +180,7 @@ Work smarter, not harder. Reuse code, build components, and get a taste of frame
 Overview:
 
 Plan like a freelancer. Execute like a pro. Combine everything you’ve learned into a polished real-world project. Then show it off.
+---
 ### Skills & Tools
 
 [] Project brief breakdown (client-style)
